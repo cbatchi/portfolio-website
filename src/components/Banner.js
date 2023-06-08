@@ -61,7 +61,12 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
             >
-              <button className="btn btn-lg">Contactez moi</button>
+              <button
+                href="mailto:claude.batchi@yahoo.fr"
+                className="btn btn-lg"
+              >
+                Contactez moi
+              </button>
               <a
                 href="#work"
                 className="btn-link capitalize lg:first-letter:uppercase text-gradient"

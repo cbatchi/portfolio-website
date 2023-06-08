@@ -1,6 +1,6 @@
 import React from "react";
 import Avatar from "../assets/avatar.png";
-import { FaGithub, FaLink, FaLinkedin, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 

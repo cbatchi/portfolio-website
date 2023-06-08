@@ -96,10 +96,10 @@ const SocialLink = () => {
       viewport={{ once: false, amount: 0.7 }}
       className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0"
     >
-      <a href="">
+      <a href="https://github.com/cbatchi">
         <FaGithub />
       </a>
-      <a href="">
+      <a href="https://www.linkedin.com/in/claude-batchi-155538220/">
         <FaLinkedin />
       </a>
     </motion.div>

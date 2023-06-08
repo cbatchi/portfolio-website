@@ -5,8 +5,10 @@ const Header = () => {
     <div className="pt-[2rem] pb-[4rem]">
       <div className="container mx-auto">
         <div className="flex justify-between items-center">
-          <img src={Logo} alt="" />
-          <button href="#" className="btn btn-sm text-[25px]">
+          <a href="/">
+            <img src={Logo} alt="" />
+          </a>
+          <button href="#contact" className="btn btn-sm text-[25px]">
             Travaillons ensemble
           </button>
         </div>
